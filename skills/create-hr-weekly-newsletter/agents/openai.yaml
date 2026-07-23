@@ -1,0 +1,6 @@
+interface:
+  display_name: "HR 일간 뉴스레터"
+  short_description: "평일 HR 헤드라인·금요일 주간 요약 초안"
+  default_prompt: "Use $create-hr-weekly-newsletter to prepare today’s HR headline brief; include the weekly recap if today is Friday."
+policy:
+  allow_implicit_invocation: true
